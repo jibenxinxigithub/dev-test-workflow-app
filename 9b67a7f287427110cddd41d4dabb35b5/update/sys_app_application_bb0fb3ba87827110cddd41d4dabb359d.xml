@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>test workflow task</name>
+        <order>100</order>
+        <roles>x_723034_test_ap_0.test_workflow_task_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-27 01:59:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bb0fb3ba87827110cddd41d4dabb359d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test workflow task</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test app link to source repository" source="x_723034_test_ap_0">9b67a7f287427110cddd41d4dabb35b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test app link to source repository">9b67a7f287427110cddd41d4dabb35b5</sys_scope>
+        <sys_update_name>sys_app_application_bb0fb3ba87827110cddd41d4dabb359d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-27 01:59:46</sys_updated_on>
+        <title>test workflow task</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
